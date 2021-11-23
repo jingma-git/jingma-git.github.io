@@ -10,7 +10,7 @@ redirect_from:
 
 Short Bio
 ======
-Hi, my name is Jing Ma (麻菁). I am a direct doctorate student at Zhejiang University in computer science & international design institute supervised by [Prof. Dongliang Zhang](https://person.zju.edu.cn/en/0012126#0). I am interested in geometry processing, physical simulation, computational design and interactive technique. Currently, my research focus is to make 3D modeling & animation as easy as possible, in particular, I work on problems related to cartoon character design.
+Hi, my name is Jing Ma (麻菁). I am a direct doctorate student at Zhejiang University in computer science-international design institute supervised by [Prof. Dongliang Zhang](https://person.zju.edu.cn/en/0012126#0). I am interested in geometry processing, physical simulation, computational design and interactive technique. Currently, my research focus is to make 3D modeling & animation as easy as possible, in particular, I work on problems related to cartoon character design.
 
 Education
 ======
