@@ -25,7 +25,7 @@ Publications
 <img width="175" align="left" src="../images/RealSkel.png"/>
 
 &nbsp; __Real-time Skeletonization for Sketch-based Modeling__<br/>
-&nbsp;  __Jing Ma__, Jin Wang, Jituo Li, Dongliang Zhang <br/>
+&nbsp;  Jing Ma, Jin Wang, Jituo Li, Dongliang Zhang <br/>
 &nbsp;  *SMI 2021*<br/>
 &nbsp;  [Paper](https://doi.org/10.1016/j.cag.2021.11.005) | [Code](https://github.com/jingma-git/RealSkel)
 
