@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "Hangzhou, China"
-title                    : "Jing Ma / Bella Ma"
+title                    : "Jing Ma"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "Homepage of Jing Ma, ZJU"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jing Ma / Bella Ma"
-  avatar           : "jingma.png"
-  bio              : "Code Beauty & Nature"
+  name             : "Jing Ma / Bella"
+  avatar           : "images/jingma.png"
+  bio              : "Code Beauty"
   # location         : ""
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
