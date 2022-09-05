@@ -24,9 +24,9 @@ Publications
 
 <img width="175" align="left" src="../images/RealSkel.png"/>
 
-&nbsp; __Real-time Skeletonization for Sketch-based Modeling__*[SMI 2021](https://smi2021.github.io/)*<br/>
+&nbsp; __Real-time Skeletonization for Sketch-based Modeling__ &nbsp;*[SMI 2021](https://smi2021.github.io/)*<br/>
 &nbsp;  Jing Ma, Jin Wang, Jituo Li, Dongliang Zhang <br/>
-&nbsp;  [paper](https://dl.acm.org/doi/abs/10.1016/j.cag.2021.11.005) | [paper](https://doi.org/10.1016/j.cag.2021.11.005) | [code](https://github.com/jingma-git/RealSkel)
+&nbsp;  [paper](https://dl.acm.org/doi/abs/10.1016/j.cag.2021.11.005) | [code](https://github.com/jingma-git/RealSkel)
 <!--
 &nbsp;  [arxiv](https://arxiv.org/pdf/2110.05805.pdf) | [acm](https://dl.acm.org/doi/abs/10.1016/j.cag.2021.11.005) | [paper](https://doi.org/10.1016/j.cag.2021.11.005) | [code](https://github.com/jingma-git/RealSkel)
  --> 
