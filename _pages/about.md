@@ -10,7 +10,13 @@ redirect_from:
 
 Short Bio
 ======
-Hi, my name is Jing Ma (麻菁). I am a Ph.D. candidate at Zhejiang University in the computer science department supervised by [Prof. Dongliang Zhang](https://person.zju.edu.cn/en/0012126#0). I am interested in geometry processing, computational design and interactive technique. Currently, my research focus is to make 3D modeling & animation as easy as possible.
+Hi, my name is Jing Ma (麻菁). I am a Ph.D. candidate at Zhejiang University in the computer science department 
+supervised by [Prof. Dongliang Zhang](https://person.zju.edu.cn/en/0012126#0). 
+Before joining ZJU, I work with [Prof. Guibing Guo](https://guoguibing.github.io/).
+
+I am interested in artificial intelligence, robotics, and virtual reality.
+My research goal is to make AI more general and to make interactive technique more intuitive.
+Currently, my research focus on making 3D generation & animation as easy as possible.
 
 Education
 ======
