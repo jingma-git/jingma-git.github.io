@@ -35,7 +35,8 @@ __TARig: Adaptive template-aware neural rigging for humanoid characters__ <br/>
 Jing Ma, Dongliang Zhang <br/>
 [paper](https://www.sciencedirect.com/science/article/pii/S0097849323000730) <br/>
 
-__Resolving data sparsity by multi-type auxiliary implicit feedback for recommender systems__ <br/>
+__Resolving data sparsity by multi-type auxiliary implicit feedback <br/>
+for recommender systems__ <br/>
 Guibing Guo, Huihuai Qiu, Zhenhua Tan, Yuan Liu, Jing Ma, Xingwei Wang <br/>
 [paper](https://www.sciencedirect.com/science/article/pii/S0950705117304653) 
 
