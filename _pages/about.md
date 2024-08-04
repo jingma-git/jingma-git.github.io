@@ -37,8 +37,7 @@ Jing Ma, Jin Wang, Jituo Li, Dongliang Zhang  <br/>
 [paper](https://dl.acm.org/doi/abs/10.1016/j.cag.2021.11.005) | [code](https://github.com/jingma-git/RealSkel) | [SMI 2021](https://smi2021.github.io/) | [media report](https://baijiahao.baidu.com/s?id=1718376969935755339&wfr=spider&for=pc) <br/>
 
 
-__Resolving data sparsity by multi-type auxiliary implicit feedback <br/>
-for recommender systems__ <br/>
+__Resolving data sparsity by multi-type auxiliary implicit feedback for recommender systems__ <br/>
 Guibing Guo, Huihuai Qiu, Zhenhua Tan, Yuan Liu, Jing Ma, Xingwei Wang <br/>
 [paper](https://www.sciencedirect.com/science/article/pii/S0950705117304653) 
 
