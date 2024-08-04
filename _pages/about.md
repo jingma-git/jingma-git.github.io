@@ -34,6 +34,13 @@ Publications
 &nbsp;  [paper](https://dl.acm.org/doi/abs/10.1016/j.cag.2021.11.005) | [code](https://github.com/jingma-git/RealSkel) | [media report](https://baijiahao.baidu.com/s?id=1718376969935755339&wfr=spider&for=pc)
 
 <br/>
+<img width="80" align="left" src="../images/RealSkel.png"/> 
+
+&nbsp; __TARig: Adaptive template-aware neural rigging for humanoid characters__ <br/>
+&nbsp;  Jing Ma, Dongliang Zhang <br/>
+&nbsp;  [paper](https://www.sciencedirect.com/science/article/pii/S0097849323000730) 
+
+<br/>
 
 Awards
 ======
