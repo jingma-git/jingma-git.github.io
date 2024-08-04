@@ -27,14 +27,11 @@ Education
 
 Publications
 ======
-<img width="80" align="left" src="../images/RealSkel.png"/> 
-
 &nbsp; __Real-time Skeletonization for Sketch-based Modeling__ &nbsp;*[SMI 2021](https://smi2021.github.io/)*<br/>
-&nbsp;  Jing Ma, Jin Wang, Jituo Li, Dongliang Zhang <br/>
-&nbsp;  [paper](https://dl.acm.org/doi/abs/10.1016/j.cag.2021.11.005) | [code](https://github.com/jingma-git/RealSkel) | [media report](https://baijiahao.baidu.com/s?id=1718376969935755339&wfr=spider&for=pc)
+&nbsp;  Jing Ma, Jin Wang, Jituo Li, Dongliang Zhang &nbsp; <br/>
+&nbsp;  [paper](https://dl.acm.org/doi/abs/10.1016/j.cag.2021.11.005) | [code](https://github.com/jingma-git/RealSkel) | [media report](https://baijiahao.baidu.com/s?id=1718376969935755339&wfr=spider&for=pc) &nbsp;
 
 <br/>
-<img width="80" align="left" src="../images/RealSkel.png"/> 
 
 &nbsp; __TARig: Adaptive template-aware neural rigging for humanoid characters__ <br/>
 &nbsp;  Jing Ma, Dongliang Zhang <br/>
