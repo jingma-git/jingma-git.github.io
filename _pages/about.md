@@ -27,21 +27,17 @@ Education
 
 Publications
 ======
-&nbsp; __Real-time Skeletonization for Sketch-based Modeling__ &nbsp;*[SMI 2021](https://smi2021.github.io/)*<br/>
-&nbsp;  Jing Ma, Jin Wang, Jituo Li, Dongliang Zhang &nbsp; <br/>
-&nbsp;  [paper](https://dl.acm.org/doi/abs/10.1016/j.cag.2021.11.005) | [code](https://github.com/jingma-git/RealSkel) | [media report](https://baijiahao.baidu.com/s?id=1718376969935755339&wfr=spider&for=pc) &nbsp;
+__Real-time Skeletonization for Sketch-based Modeling__ <br/>
+Jing Ma, Jin Wang, Jituo Li, Dongliang Zhang  <br/>
+[paper](https://dl.acm.org/doi/abs/10.1016/j.cag.2021.11.005) | [code](https://github.com/jingma-git/RealSkel) | [SMI 2021](https://smi2021.github.io/) | [media report](https://baijiahao.baidu.com/s?id=1718376969935755339&wfr=spider&for=pc) <br/>
 
-<br/>
+__TARig: Adaptive template-aware neural rigging for humanoid characters__ <br/>
+Jing Ma, Dongliang Zhang <br/>
+[paper](https://www.sciencedirect.com/science/article/pii/S0097849323000730) <br/>
 
-&nbsp; __TARig: Adaptive template-aware neural rigging for humanoid characters__ <br/>
-&nbsp;  Jing Ma, Dongliang Zhang <br/>
-&nbsp;  [paper](https://www.sciencedirect.com/science/article/pii/S0097849323000730) 
-
-<br/>
-
-&nbsp; __Resolving data sparsity by multi-type auxiliary implicit feedback for recommender systems__ <br/>
-&nbsp;  Guibing Guo, Huihuai Qiu, Zhenhua Tan, Yuan Liu, Jing Ma, Xingwei Wang <br/>
-&nbsp;  [paper](https://www.sciencedirect.com/science/article/pii/S0950705117304653) 
+__Resolving data sparsity by multi-type auxiliary implicit feedback for recommender systems__ <br/>
+Guibing Guo, Huihuai Qiu, Zhenhua Tan, Yuan Liu, Jing Ma, Xingwei Wang <br/>
+[paper](https://www.sciencedirect.com/science/article/pii/S0950705117304653) 
 
 <br/>
 
