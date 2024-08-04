@@ -42,6 +42,12 @@ Publications
 
 <br/>
 
+&nbsp; __Resolving data sparsity by multi-type auxiliary implicit feedback for recommender systems__ <br/>
+&nbsp;  Guibing Guo, Huihuai Qiu, Zhenhua Tan, Yuan Liu, Jing Ma, Xingwei Wang <br/>
+&nbsp;  [paper](https://www.sciencedirect.com/science/article/pii/S0950705117304653) 
+
+<br/>
+
 Awards
 ======
 - Mathematical Contest In Modeling: Meritorious Winner, Spring 2018
