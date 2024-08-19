@@ -10,7 +10,7 @@ redirect_from:
 
 Short Bio
 ======
-Hi, my name is Jing Ma (麻菁). I am currently a Ph.D. candidate in the Computer Science Department at Zhejiang University, 
+Hi, my name is Jing Ma (麻菁). I am a Ph.D. candidate in the Computer Science Department at Zhejiang University, 
 where I am fortunate to be advised by [Prof. Dongliang Zhang](https://person.zju.edu.cn/en/0012126#0), 
 who guides me to computer graphics and 3D deep learning. 
 
@@ -20,7 +20,8 @@ who introduced me to Deep Learning, Recommender Systems, and Natural Language Pr
 
 I am interested in artificial intelligence, robotics, and virtual reality.
 My research goal is to develop general AI and intuitive interactive techniques. 
-Currently, I am focused on making 3D generation and animation as easy as possible.
+Currently, I am focused on making 3D generation and animation as easy as possible---
+enabling the creation of virtual worlds and facilitating human interaction within them.
 Recently, I am exploring next research topics and would welcome any discussions. 
 Feel free to email me if you're interested!
 
