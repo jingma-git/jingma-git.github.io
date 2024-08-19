@@ -23,7 +23,7 @@ My research goal is to develop general AI and intuitive interactive techniques.
 Currently, I am focused on making 3D generation and animation as easy as possible---
 enabling the creation of virtual worlds and facilitating human interaction within them.
 Recently, I am exploring next research topics and would welcome any discussions. 
-Feel free to email me if you're interested!
+Feel free to email me !
 
 Education
 ======
