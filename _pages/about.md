@@ -36,7 +36,7 @@ Publications
 ======
 __TARig: Adaptive template-aware neural rigging for humanoid characters__ <br/>
 Jing Ma, Dongliang Zhang <br/>
-[paper](https://www.sciencedirect.com/science/article/pii/S0097849323000730) | [code](https://smiconf.github.io/2024/) <br/>
+[paper](https://www.sciencedirect.com/science/article/pii/S0097849323000730) | [code](https://github.com/jingma-git/TARig-1) | [SMI 2024](https://smiconf.github.io/2024/) <br/>
 
 
 __Real-time Skeletonization for Sketch-based Modeling__ <br/>
