@@ -34,6 +34,11 @@ Education
 
 Publications
 ======
+__EasySkinning: Target-oriented skinning by mesh contraction and curve editing__ <br/>
+Jing Ma, Jituo Li, Zixun Wang, Dongliang Zhang <br/>
+[paper](https://www.sciencedirect.com/science/article/pii/S0097849324001845) <br/>
+
+
 __TARig: Adaptive template-aware neural rigging for humanoid characters__ <br/>
 Jing Ma, Dongliang Zhang <br/>
 [paper](https://www.sciencedirect.com/science/article/pii/S0097849323000730) | [code](https://github.com/jingma-git/TARig-1) | [SMI 2024](https://smiconf.github.io/2024/) <br/>
