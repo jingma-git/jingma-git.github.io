@@ -35,7 +35,7 @@ Education
 Publications
 ======
 __EasySkinning: Target-oriented skinning by mesh contraction and curve editing__ <br/>
-Jing Ma, Jituo Li, Zixun Wang, Dongliang Zhang <br/>
+Jing Ma, Jituo Li, Dongliang Zhang <br/>
 [paper](https://www.sciencedirect.com/science/article/pii/S0097849324001845) <br/>
 
 
