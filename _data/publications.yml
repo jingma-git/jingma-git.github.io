@@ -1,0 +1,39 @@
+# Projects
+# uncomment the urls if you wish to display them, and add your own URL
+- project_name: "EasySkinning: Target-oriented skinning by mesh contraction and curve editing"
+  # teaser_img: assets/img/sorted_teaser_new.jpg
+  authors: <b>Jing Ma</b>, Jituo Li, Dongliang Zhang   
+  platform: Computers & Graphics 2024 
+  # project_page_url: https://svbrdf.github.io/publications/OpenSVBRDF/project.html
+  # database_url: https://opensvbrdf.github.io/
+  # video_link_youtube: https://www.youtube.com/watch?v=tDccO4-SQQE
+  # video_link_bilibili: https://www.bilibili.com/video/BV1Uh4y1A7Ug/?spm_id_from=333.999.0.0&vd_source=a7b0b9f0d9a9eb2a2ffb352cafe34c20
+
+# Efficient Reflectance Capture with a Deep Gated Mixture-of-Experts
+- project_name: "TARig: Adaptive template-aware neural rigging for humanoid characters"
+  # teaser_img: assets/img/moe.gif
+  authors: <b>Jing Ma</b>, Dongliang Zhang
+  platform: Computers & Graphics 2023
+  pdf_link: https://dl.acm.org/doi/10.1016/j.cag.2023.05.018
+  project_page_url: https://github.com/jingma-git/TARig-1
+  # video_link_youtube: https://youtu.be/v2SyeMUV6_Y
+  # video_link_bilibili: https://www.bilibili.com/video/BV1ZL411r7iq/
+
+# Free-form Scanning of Non-planar Appearance with Neural Trace Photography
+- project_name: "Real-time Skeletonization for Sketch-based Modeling"
+  # teaser_img: assets/img/scan.gif
+  authors: <b>Jing Ma</b>, Jin Wang, Jituo Li, Dongliang Zhang
+  platform: Computers & Graphics 2022
+  # ACM Trans. Graph. (Proc. SIGGRAPH Asia 2019), 38, 6 (Nov. 2019), 165.
+  project_page_url: https://github.com/jingma-git/RealSkel
+  # description: Patent# CN113362466A/WO2022256962
+
+# Learning Efficient Photometric Feature Transform for Multi-view Stereo
+- project_name: "Resolving data sparsity by multi-type auxiliary implicit feedback for recommender systems"
+  # teaser_img: assets/img/dift.png
+  ,  
+  authors: <a href=https://guoguibing.github.io/cn/>Guibing Guo</a>, Huihuai Qiu, Zhenhua Tan, Yuan Liu, <b>Jing Ma</b>, Xingwei Wang
+  platform: Knowledge-based Systems 2017
+  # project_page_url: https://github.com/jingma-git/RealSkel
+  # project_page_url: http://www.cad.zju.edu.cn/home/hwu/publications/jointcap/project.html
+  # description: 
