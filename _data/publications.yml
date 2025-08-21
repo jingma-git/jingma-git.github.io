@@ -2,7 +2,7 @@
 # uncomment the urls if you wish to display them, and add your own URL
 - project_name: "EasySkinning: Target-oriented skinning by mesh contraction and curve editing"
   # teaser_img: assets/img/sorted_teaser_new.jpg
-  authors: <b>Jing Ma</b>, Jituo Li, Dongliang Zhang   
+  authors: <b>Jing Ma</b>, <a href=https://person.zju.edu.cn/lijituo/>Jituo Li</a>, <a href=https://person.zju.edu.cn/0012126/0.html>Dongliang Zhang</a>
   platform: Computers & Graphics 2024 
   # project_page_url: https://svbrdf.github.io/publications/OpenSVBRDF/project.html
   # database_url: https://opensvbrdf.github.io/
@@ -12,7 +12,7 @@
 # Efficient Reflectance Capture with a Deep Gated Mixture-of-Experts
 - project_name: "TARig: Adaptive template-aware neural rigging for humanoid characters"
   # teaser_img: assets/img/moe.gif
-  authors: <b>Jing Ma</b>, Dongliang Zhang
+  authors: <b>Jing Ma</b>, <a href=https://person.zju.edu.cn/0012126/0.html>Dongliang Zhang</a>
   platform: Computers & Graphics 2023
   pdf_link: https://dl.acm.org/doi/10.1016/j.cag.2023.05.018
   project_page_url: https://github.com/jingma-git/TARig-1
@@ -22,10 +22,11 @@
 # Free-form Scanning of Non-planar Appearance with Neural Trace Photography
 - project_name: "Real-time Skeletonization for Sketch-based Modeling"
   # teaser_img: assets/img/scan.gif
-  authors: <b>Jing Ma</b>, Jin Wang, Jituo Li, Dongliang Zhang
+  authors: <b>Jing Ma</b>, <a href=https://person.zju.edu.cn/skyhover>Jin Wang</a>, <a href=https://person.zju.edu.cn/lijituo/>Jituo Li</a>, <a href=https://person.zju.edu.cn/0012126/0.html>Dongliang Zhang</a>
   platform: Computers & Graphics 2022
   # ACM Trans. Graph. (Proc. SIGGRAPH Asia 2019), 38, 6 (Nov. 2019), 165.
   project_page_url: https://github.com/jingma-git/RealSkel
+  pdf_link: https://dl.acm.org/doi/10.1016/j.cag.2023.05.018
   # description: Patent# CN113362466A/WO2022256962
 
 # Learning Efficient Photometric Feature Transform for Multi-view Stereo
