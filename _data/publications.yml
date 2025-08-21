@@ -4,6 +4,7 @@
   teaser_img: assets/img/EasySkinning.png
   authors: <b>Jing Ma</b>, <a href=https://person.zju.edu.cn/lijituo/>Jituo Li</a>, <a href=https://person.zju.edu.cn/0012126/0.html>Dongliang Zhang</a>
   platform: Computers & Graphics 2024 
+  pdf_link: https://dl.acm.org/doi/10.1016/j.cag.2024.104049
   # project_page_url: https://svbrdf.github.io/publications/OpenSVBRDF/project.html
   # database_url: https://opensvbrdf.github.io/
   # video_link_youtube: https://www.youtube.com/watch?v=tDccO4-SQQE
@@ -26,7 +27,7 @@
   platform: Computers & Graphics 2022
   # ACM Trans. Graph. (Proc. SIGGRAPH Asia 2019), 38, 6 (Nov. 2019), 165.
   project_page_url: https://github.com/jingma-git/RealSkel
-  pdf_link: https://dl.acm.org/doi/10.1016/j.cag.2023.05.018
+  pdf_link: https://dl.acm.org/doi/10.1016/j.cag.2021.11.005
   # description: Patent# CN113362466A/WO2022256962
 
 # Learning Efficient Photometric Feature Transform for Multi-view Stereo
