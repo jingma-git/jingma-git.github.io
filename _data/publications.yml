@@ -1,7 +1,7 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 - project_name: "EasySkinning: Target-oriented skinning by mesh contraction and curve editing"
-  # teaser_img: assets/img/sorted_teaser_new.jpg
+  teaser_img: assets/img/EasySkinning.png
   authors: <b>Jing Ma</b>, <a href=https://person.zju.edu.cn/lijituo/>Jituo Li</a>, <a href=https://person.zju.edu.cn/0012126/0.html>Dongliang Zhang</a>
   platform: Computers & Graphics 2024 
   # project_page_url: https://svbrdf.github.io/publications/OpenSVBRDF/project.html
@@ -11,7 +11,7 @@
 
 # Efficient Reflectance Capture with a Deep Gated Mixture-of-Experts
 - project_name: "TARig: Adaptive template-aware neural rigging for humanoid characters"
-  # teaser_img: assets/img/moe.gif
+  teaser_img: assets/img/tarig.png
   authors: <b>Jing Ma</b>, <a href=https://person.zju.edu.cn/0012126/0.html>Dongliang Zhang</a>
   platform: Computers & Graphics 2023
   pdf_link: https://dl.acm.org/doi/10.1016/j.cag.2023.05.018
@@ -21,7 +21,7 @@
 
 # Free-form Scanning of Non-planar Appearance with Neural Trace Photography
 - project_name: "Real-time Skeletonization for Sketch-based Modeling"
-  # teaser_img: assets/img/scan.gif
+  teaser_img: assets/img/RealSkel.png
   authors: <b>Jing Ma</b>, <a href=https://person.zju.edu.cn/skyhover>Jin Wang</a>, <a href=https://person.zju.edu.cn/lijituo/>Jituo Li</a>, <a href=https://person.zju.edu.cn/0012126/0.html>Dongliang Zhang</a>
   platform: Computers & Graphics 2022
   # ACM Trans. Graph. (Proc. SIGGRAPH Asia 2019), 38, 6 (Nov. 2019), 165.
