@@ -1,6 +1,6 @@
 title: Jing Ma
 position: Lecturer
-affiliation: Key Laboratory of Clothing Design & Technology, Ministry of Education
+affiliation: Key Laboratory of Clothing Design & Technology, Education Ministry
 email: jingma@dhu.edu.cn
 keywords: Code the beauty of nature.
 about_me: </p> Hello, my name is Jing Ma (麻菁). I am a lecturer at Donghua University. </p> My research interests include ​​computer graphics, computer animation, computer-aided design, and human-computer interaction​​. </p> I received my Ph.D. from Zhejiang University (ZJU), where I was fortunate to be advised by <a href=https://person.zju.edu.cn/0012126/0.html>Prof.Dongliang Zhang</a>, who guided me to computer graphics, computer-aided design, and human-computer interaction. During my undergraduate studies at Northeastern University (NEU), I was also fortunate to be mentored by <a href=https://guoguibing.github.io/cn/>Prof. Guibing Guo​</a>, who introduced me to ​​deep learning and recommender systems​​. </p> Our ​​Interactive Graphics & Fibers (IGF) team​​ is actively recruiting students. We welcome applicants with ​​backgrounds in design, materials science, computer science, electrical engineering, or mechanical engineering​​. If you are interested, please feel free to contact me.
@@ -12,6 +12,7 @@ avatar: ./assets/img/jingma.png
 zju: ./assets/img/zju2.png
 sysu: ./assets/img/DHU.png      
 # google_analytics: UA-111540567-4
+description: Code the beauty of nature.
 favicon: ./assets/img/igf_logo.png
 favicon_dark: ./assets/img/igf_logo.png
 canonical: https://minimal-light.yyliu.net/
