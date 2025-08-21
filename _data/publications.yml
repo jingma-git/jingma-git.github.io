@@ -31,7 +31,6 @@
 # Learning Efficient Photometric Feature Transform for Multi-view Stereo
 - project_name: "Resolving data sparsity by multi-type auxiliary implicit feedback for recommender systems"
   # teaser_img: assets/img/dift.png
-  ,  
   authors: <a href=https://guoguibing.github.io/cn/>Guibing Guo</a>, Huihuai Qiu, Zhenhua Tan, Yuan Liu, <b>Jing Ma</b>, Xingwei Wang
   platform: Knowledge-based Systems 2017
   # project_page_url: https://github.com/jingma-git/RealSkel
