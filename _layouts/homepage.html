@@ -25,6 +25,7 @@
         integrity="sha256-+N4/V/SbAFiW1MPBCXnfnP9QSN3+Keu+NlB+0ev/YKQ=" crossorigin=anonymous>
 
     <link rel="stylesheet" href="./assets/css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-…" crossorigin="anonymous">
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-T6H1QP838K"></script>
     <script>
@@ -186,6 +187,11 @@
                     <i class="fab fa-linkedin-in"></i>
                 </a>
                 {% endif %} -->
+                {% if site.orcid %}
+                <a href="https://orcid.org/{{ site.orcid }}" title="ORCID">
+                    <i class="ai ai-orcid"></i>
+                </a>
+                {% endif %}
             </div>
             {% comment %} <p class="visit">
                 <script type="text/javascript" id="clustrmaps"
