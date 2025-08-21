@@ -66,8 +66,29 @@
 
             <a><img class="image university" src="{{site.sysu}}" alt="SUN-YAT SEN University"
                     onContextMenu="return false" /></a>
-
-
+            <p>Code the beauty of nature.</p>
+            <div class="social-icons">
+                {% if site.google_scholar %}
+                <a href="{{ site.google_scholar}}" target="_blank">
+                    <i class="ai ai-google-scholar" style="font-size:1.6rem"></i>
+                </a>
+                {% endif %}
+                {% if site.github_link %}
+                <a href="{{ site.github_link }}" target="_blank">
+                    <i class="fab fa-github"></i>
+                </a>
+                {% endif %}
+                <!-- {% if site.linkedin %}
+                <a href="{{ site.linkedin }}" target="_blank">
+                    <i class="fab fa-linkedin-in"></i>
+                </a>
+                {% endif %} -->
+                {% if site.orcid %}
+                <a href="https://orcid.org/{{ site.orcid }}" title="ORCID">
+                    <i class="ai ai-orcid"></i>
+                </a>
+                {% endif %}
+            </div>
             {% endif %}
 
         </header>
@@ -191,28 +212,6 @@
 
 
         <footer> 
-            <div class="social-icons">
-                {% if site.google_scholar %}
-                <a href="{{ site.google_scholar}}" target="_blank">
-                    <i class="ai ai-google-scholar" style="font-size:1.6rem"></i>
-                </a>
-                {% endif %}
-                {% if site.github_link %}
-                <a href="{{ site.github_link }}" target="_blank">
-                    <i class="fab fa-github"></i>
-                </a>
-                {% endif %}
-                <!-- {% if site.linkedin %}
-                <a href="{{ site.linkedin }}" target="_blank">
-                    <i class="fab fa-linkedin-in"></i>
-                </a>
-                {% endif %} -->
-                {% if site.orcid %}
-                <a href="https://orcid.org/{{ site.orcid }}" title="ORCID">
-                    <i class="ai ai-orcid"></i>
-                </a>
-                {% endif %}
-            </div>
             {% comment %} <p class="visit">
                 <script type="text/javascript" id="clustrmaps"
                     src="//clustrmaps.com/map_v2.js?d=PTXevshBTl9UJJo2L2d_Jcnotkflw96m040x5zboA9o&cl=ffffff&w=a"></script>
