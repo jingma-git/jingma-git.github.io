@@ -13,7 +13,7 @@ zju: ./assets/img/zju2.png
 sysu: ./assets/img/DHU.png      
 # google_analytics: UA-111540567-4
 description: Code the beauty of nature.
-favicon: ./assets/img/igf_logo.png
+favicon: ./assets/img/igm_logo.png
 favicon_dark: ./assets/img/igf_logo.png
 canonical: https://minimal-light.yyliu.net/
 remote_theme: yaoyao-liu/minimal-light
