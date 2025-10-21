@@ -1,7 +1,7 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 - project_name: "EasySkinning: Target-oriented skinning by mesh contraction and curve editing"
-  teaser_img: assets/img/EasySkinning.png
+  teaser_img: assets/img/EasySkinning.jpg
   authors: <b>Jing Ma</b>, <a href=https://person.zju.edu.cn/lijituo/>Jituo Li</a>, <a href=https://person.zju.edu.cn/0012126/0.html>Dongliang Zhang</a>
   platform: Computers & Graphics 2024 
   pdf_link: https://dl.acm.org/doi/10.1016/j.cag.2024.104049
@@ -12,7 +12,7 @@
 
 # Efficient Reflectance Capture with a Deep Gated Mixture-of-Experts
 - project_name: "TARig: Adaptive template-aware neural rigging for humanoid characters"
-  teaser_img: assets/img/tarig.png
+  teaser_img: assets/img/tarig.jpg
   authors: <b>Jing Ma</b>, <a href=https://person.zju.edu.cn/0012126/0.html>Dongliang Zhang</a>
   platform: Computers & Graphics 2023
   pdf_link: https://dl.acm.org/doi/10.1016/j.cag.2023.05.018
@@ -22,7 +22,7 @@
 
 # Free-form Scanning of Non-planar Appearance with Neural Trace Photography
 - project_name: "Real-time Skeletonization for Sketch-based Modeling"
-  teaser_img: assets/img/RealSkel.png
+  teaser_img: assets/img/RealSkel.jpg
   authors: <b>Jing Ma</b>, <a href=https://person.zju.edu.cn/skyhover>Jin Wang</a>, <a href=https://person.zju.edu.cn/lijituo/>Jituo Li</a>, <a href=https://person.zju.edu.cn/0012126/0.html>Dongliang Zhang</a>
   platform: Computers & Graphics 2022
   # ACM Trans. Graph. (Proc. SIGGRAPH Asia 2019), 38, 6 (Nov. 2019), 165.
@@ -32,7 +32,7 @@
 
 # Learning Efficient Photometric Feature Transform for Multi-view Stereo
 - project_name: "Resolving data sparsity by multi-type auxiliary implicit feedback for recommender systems"
-  teaser_img: assets/img/recommender.png
+  teaser_img: assets/img/recommender.jpg
   authors: <a href=https://guoguibing.github.io/cn/>Guibing Guo</a>, Huihuai Qiu, Zhenhua Tan, Yuan Liu, <b>Jing Ma</b>, Xingwei Wang
   platform: Knowledge-based Systems 2017
   # project_page_url: https://github.com/jingma-git/RealSkel
